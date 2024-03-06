@@ -193,7 +193,7 @@ JobDescription("BSE Degree",loc=[.035,.46],company="SIUE University",DateRange="
 
 
 #additonal skills
-JobDescription("All Additions",loc=[.035,.25],company="",DateRange="",
+JobDescription("All Additional Skills",loc=[.035,.25],company="",DateRange="",
                general_desciption="",
                tasks=[],
 
