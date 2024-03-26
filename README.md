@@ -1,5 +1,5 @@
 # Resume
 
-[![preview](resume.png)]
+![preview](resume.png)
 
 
